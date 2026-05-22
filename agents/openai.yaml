@@ -1,0 +1,8 @@
+interface:
+  display_name: "Xiaobai Skills"
+  short_description: "One-click starter pack and curator for Codex skills."
+  brand_color: "#2563EB"
+  default_prompt: "Use $xiaobai-skills to install a beginner-friendly skills starter pack and organize conflicting installed skills."
+
+policy:
+  allow_implicit_invocation: true
